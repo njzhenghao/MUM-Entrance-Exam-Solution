@@ -1,2 +1,2 @@
 # MUM-Entrance-Exam-Solution
-Questiong is in the pdf file.
+Questions are in the pdf file.
